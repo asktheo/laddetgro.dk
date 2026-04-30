@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+
+.router-link-exact-active {
+  border-bottom: 2px solid var(--color-gray-600);
+}
+
+.router-link-active {
+  border-bottom: 2px solid var(--color-gray-600);
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #f7f7f7;
+}
+
+h1,
+h2 {
+  color: #2d602d;
+}
+
+section {
+  background: #ffffff;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+a:visited{
+  color: gray;
+}
+
+a {
+ color: olivedrab
+}
