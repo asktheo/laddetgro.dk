@@ -28,7 +28,7 @@ onMounted(() => {
 <style scoped>
 .geomap {
     height: 650px;
-    width: 650px;
+    width: 100%;
 }
 </style>
 

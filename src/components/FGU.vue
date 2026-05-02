@@ -4,12 +4,12 @@ import Map from './Map.vue';
 </script>
 
 <template>
-    <article id="fgu" class="p-6 rounded-lg bg-white shadow-amber-400">
+    <article id="fgu">
 
-        <h1 class="h-1 text-3xl">FGU Kolding &amp; Vejen</h1>
+        <h1 class="text-3xl">FGU Kolding &amp; Vejen</h1>
 
         <section id="fgu-haven" class="mb-4">
-            <h2 class="h-8 text-2xl">...vores uundværlige ven og vært</h2>
+            <h2 class="text-2xl">Vores uundværlige ven og vært</h2>
 
             <p><strong>FGU Kolding &amp; Vejen har stillet et stort areal til rådighed og skal have en stor tak for hjælp undervejs. Fx har de bygget et drivhus!</strong><br/>FGU får til gengæld en del af grøntsagerne til tilberedning i skolens kantine.</p>
             <p>FGU står for Forberedende Grund Uddannelse – og hjælper unge, der har brug for et samlet uddannelsestilbud efter folkeskolen for at blive klar
@@ -20,7 +20,7 @@ import Map from './Map.vue';
 
 
         <section id="kort-over-haven" class="mb-4">
-            <h2><a name="amap"></a>Kort</h2>
+            <a name="amap"></a>
             <Map></Map>
         </section>
 

@@ -1,5 +1,5 @@
 <template>
-    <article id="links" class="p-6 rounded-lg bg-white shadow-amber-400">
+    <article id="links">
 
         <h1 class="text-3xl">Links</h1>
 

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 </script>
 <template>
-    <article id="laddetgro" class="p-6 rounded-lg bg-white shadow-amber-400">
+    <article id="laddetgro">
 
         <h1 class="text-3xl">LAD DET GRO</h1>
 

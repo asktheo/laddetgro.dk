@@ -1,5 +1,5 @@
 <template>
-    <article id="kontakt" class="p-6 rounded-lg bg-white shadow-amber-400">
+    <article id="kontakt">
 
         <h1 class="text-3xl">Kontakt</h1>
 

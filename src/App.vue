@@ -3,7 +3,7 @@ import Navigation from '@/components/nav/navigation.vue';
 </script>
 
 <template>
-  <div class="max-w-full-xl mx-auto ps-4 pe-4 lg:ps-16 lg:pe-16 pt-2 ">
+  <div class="max-w-full-xl mx-auto p-2 lg:ps-16 lg:pe-16 pt-2 ">
     <Navigation />
     <div class="mb-2">
       <RouterView />
