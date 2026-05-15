@@ -18,6 +18,10 @@ body {
   background: #f7f7f7;
 }
 
+.ldg-menu {
+  text-transform: uppercase;
+}
+
 h1,
 h2 {
   color: #2d602d;

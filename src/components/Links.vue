@@ -3,8 +3,16 @@
 
         <h1 class="text-3xl">Links</h1>
 
+        <section id="sect_presse" class="mb-4">
+            <h2 class="text-2xl">Presse</h2>
+            <ul>
+                <li><a href="https://jv.dk/kolding/theo-savnede-mere-groent-paa-streetfoodfestival-nu-staar-han-bag-nyt-projekt-med-groentsager-i-centrum">Artikel</a> i Jydske Vestkysten d. 28. april 2026</li>
+            </ul>
+
+        </section>
 
         <section id="sect_links" class="mb-4">
+            <h2 class="text-2xl">Referencer</h2>
             <p>
                 I skabelsen af vores projekt har vi været vidt omkring for at få inspiration, råd og vejledning.
             </p>

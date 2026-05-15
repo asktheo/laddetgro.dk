@@ -2,7 +2,7 @@
     <div class="grid grid-cols-[1fr_max-content]">
 
         <div class="text-xl tracking-wide grid grid-cols-[max-content_1fr] gap-2">
-            <span class="text-gray-600 ">Menu</span>
+            <span class="text-gray-600 "><a href="/"><img src="@/assets/logo2.svg" alt="Home" class="h-12 w-auto block" /></a></span>
         </div>
 
         <button
@@ -24,8 +24,7 @@
             <ul class="flex flex-col gap-4 text-base tracking-wide">
                     <li v-for="route in visibleRoutesMobile" :key="route.path" class="cursor-pointer">
                         <router-link :to="route.path">
-                            <img v-if="route.name === 'home'" src="@/assets/logo.svg" alt="Home" class="h-12 w-auto block" />
-                            <span v-else class="block">{{ route.meta?.title }}</span>
+                            <span class="block ldg-menu">{{ route.meta?.title }}</span>
                         </router-link>
                     </li>
             </ul>

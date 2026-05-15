@@ -4,7 +4,7 @@
         <ul class="flex gap-x-8 text-base">
             <li v-for="route in visibleRoutes" :key="route.path">
                     <router-link :to="`${route.path}`" class="hover:underline">
-                        <img v-if="route.name === 'home'" src="@/assets/logo.svg" alt="Home" class="h-12 w-auto" />
+                        <img v-if="route.name === 'home'" src="@/assets/logo2.svg" alt="Home" class="h-12 w-auto" />
                         <span v-else>{{ route.meta?.title }}</span>
                     </router-link>
             </li>

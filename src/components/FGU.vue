@@ -6,7 +6,7 @@ import Map from './Map.vue';
 <template>
     <article id="fgu">
 
-        <h1 class="text-3xl">FGU Kolding &amp; Vejen</h1>
+        <h1 class="text-3xl">Haven på FGU</h1>
 
         <section id="fgu-haven" class="mb-4">
             <h2 class="text-2xl">Vores uundværlige ven og vært</h2>

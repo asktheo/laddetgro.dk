@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 246 246">
+
+  <defs>
+    <style>
+      .olive {
+        stroke: #2d602d;
+        fill: none;
+      }
+      .text {
+        fill: #2d602d;
+        font-family: Verdana, Arial;
+        font-weight: 500;
+        font-size: 64px;
+        letter-spacing: 0.12em;
+      }
+    </style>
+  </defs>
+
+  <!-- Dobbeltramme -->
+  <rect x="3" y="3" width="240" height="240"
+        stroke-width="6" class="olive"/>
+  <rect x="12" y="12" width="222" height="222"
+        stroke-width="2" class="olive"/>
+
+  <!-- Tekst -->
+  <text x="108" y="72"
+        text-anchor="middle"
+        class="text">
+
+    <tspan x="108" dx="0.8em">LAD</tspan>
+    <tspan x="108" dy="1.12em" dx="0.2em">DET</tspan>
+    <tspan x="108" dy="1.12em" dx="0.42em">GRO</tspan>
+
+  </text>
+
+</svg>
