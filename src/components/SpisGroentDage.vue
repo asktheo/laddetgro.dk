@@ -12,8 +12,10 @@
         Her er de første arrangementer - lige til at skrive i kalenderen:
       </p>
       <ul class="p-2">
-        <li>Spis Grønt Dag nr. 1 fredag d. 29. maj 2026. <a href="#nr1">Menu</a> - <a href="https://fairbillet.dk/t560/Spis_Gr%C3%B8nt_Dag_nr_1">Billet</a></li>
-        <li>Spis Grønt Dag nr. 2 fredag d. 26. jun 2026</li>
+        <li>Spis Grønt Dag nr. 1 fredag d. 29. maj 2026. <a href="#nr1">Menu</a> - <a
+            href="https://fairbillet.dk/t560/Spis_Gr%C3%B8nt_Dag_nr_1">Billet</a></li>
+        <li>Sommerpause i juni...<i class="fa fa-umbrella-beach text-green-500"></i></li>
+        <li>Spis Grønt Dag nr. 2 fredag d. 31. juli 2026</li>
         <li>Spis Grønt Dag nr. 3 fredag d. 28. aug 2026</li>
         <li>Spis Grønt Dag nr. 4 fredag d. 25. sep 2026</li>
         <li>Spis Grønt Dag nr. 5 fredag d. 30. okt 2026</li>
@@ -48,15 +50,14 @@
       </p>
 
       <!-- Billeder fra haven og aktiviteter -->
-      <p class="image-row pb-4">
-        <figure>
-          <img src="../assets/SpisGroentdage.jpg" alt="Spis Grønt Dag - pilot - i solrigt forårsvejr" />
-          <figcaption class="text-sm">
-            Aktivitet og hygge i haven. Her er drivhus, telt og bålsted. Vi laver maden i udekøkkenet på bål, en
-            gasgrill og gas-kogeø.
-          </figcaption>
-        </figure>
-      </p>
+      <figure class="image-row pb-4">
+        <img src="../assets/SpisGroentdage.jpg" alt="Spis Grønt Dag - pilot - i solrigt forårsvejr" />
+        <figcaption class="text-sm">
+          Aktivitet og hygge i haven. Her er drivhus, telt og bålsted. Vi laver maden i udekøkkenet på bål, en
+          gasgrill og gas-kogeø.
+        </figcaption>
+      </figure>
+
 
       <p class="pt-4">
         Hver begivenhed vil være en sanselig oplevelse, hvor deltagerne høster fra haven, lærer råvarerne at kende og
