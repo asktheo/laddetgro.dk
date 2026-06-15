@@ -8,20 +8,19 @@
         14 dage i forvejen, og du kan straks herefter købe billet via et link til <a
           href="fairbillet.dk">Fairbillet.dk</a>. <br />Prisen for
         billetten kan variere fra gang til gang (regn med 80 - 120 kr).</p>
-      <p class="p-2">
-        Her er de første arrangementer - lige til at skrive i kalenderen:
-      </p>
-      <ul class="p-2">
-        <li>Spis Grønt Dag nr. 1 fredag d. 29. maj 2026. <a href="#nr1">Menu</a> - <a
-            href="https://fairbillet.dk/t560/Spis_Gr%C3%B8nt_Dag_nr_1">Billet</a></li>
+        
+        <h2 class="text-2xl">Kalender</h2>
+
+        <ul class="p-2">
+        <li class="bg-gray-200">Spis Grønt Dag nr. 1 fredag d. 29. maj 2026. <a href="#nr1">Menu</a></li>
         <li>Sommerpause i juni...<i class="fa fa-umbrella-beach text-green-500"></i></li>
-        <li>Spis Grønt Dag nr. 2 fredag d. 31. juli 2026</li>
+        <li>Spis Grønt Dag nr. 2 fredag d. 31. juli 2026.  <button class="inline-flex bg-gray-200 border-0 py-1 px-4 focus:outline-none hover:bg-cyan-200 rounded text-lg"><a href="https://fairbillet.dk/t564/Spis_Gr%C3%B8nt_Dag_nr_2_-_juli">Køb billet!</a></button></li>
         <li>Spis Grønt Dag nr. 3 fredag d. 28. aug 2026</li>
         <li>Spis Grønt Dag nr. 4 fredag d. 25. sep 2026</li>
         <li>Spis Grønt Dag nr. 5 fredag d. 30. okt 2026</li>
         <li>Spis Grønt Dag nr. 6 forv d. 26. marts 2027</li>
       </ul>
-      <p>OBS: Menuen, der er link til her, kan ændre sig helt frem til arrangementsdatoen, da den er afhængig af
+      <p>Menuen kan ændre sig helt frem til arrangementsdatoen, da den er afhængig af
         udbuddet af grønt, og hvem der svinger skeen på dagen</p>
 
     </section>
@@ -82,9 +81,6 @@
         Cashewnødde-smør med urter<br />
       </p>
       <hr />
-      <p style="text-decoration-color: olive;text-align: center;font-style: italic;">Lyder det lækkert? Link til køb af
-        billet følger snart</p>
-
     </section>
   </article>
 </template>

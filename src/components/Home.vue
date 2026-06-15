@@ -3,40 +3,47 @@
 <template>
     <article id="laddetgro">
 
-        <h1 class="text-3xl">LAD DET GRO</h1>
+        <h1 class="text-3xl">DET GROR!</h1>
 
-        <section id="sct_laddetgro" class="mb-4">
-            <p>
-                LAD DET GRO er et dyrkningsfællesskab med en stor have på <a href="/FGU">FGU's</a> grund i
-                Kolding/Harte. Haven er startet i 2025 af Line, som med hjælp fra frivillige dyrker ca. 600
-                m<sup>2</sup> bede med grøntsager og urter.
-                I april '26 har skolen opført et drivhus, som vil blive fyldt af over 100 tomatplanter og meget andet,
-                der bedst trives der.<br />
-                LAD DET GRO på <a href="https://www.facebook.com/groups/557424813585411">Facebook - privat gruppe</a>
-            </p>
+        <section id="sect_nyt" class="mb-4">
+            Du kan allerede nu sikre dig en billet til Spis Grønt Dag #1 <button class="inline-flex bg-gray-200 border-0 py-1 px-4 focus:outline-none hover:bg-cyan-200 rounded text-lg">
+                <a href="spisgroentdage">Se kalenderen</a>
+            </button>
         </section>
 
-        <section id="sect_selvforsyning" class="mb-4">
-            <h2 class="text-2xl">Om selvforsyning og Line Øskov Knudsen</h2>
+        <section id="sect_seneste" class="mb-4">
+            <h2 class="text-2xl">Spis Grønt Dag #1 var en succes</h2>
 
-            <p>
-                Line Øskov Knudsen bor i Harte nær Kolding og er kendt for at have forvandlet sin helt almindelige
-                parcelhushave til et stort og funktionelt spisekammer. Hendes mål er at blive så selvforsynende
-                som muligt, og hun har gennem 10 år udviklet haven til et sted fyldt med højbede, drivhus,
-                orangeri og et hønsehus med 10–11 høns.
-                <br/>
-                Gennem Facebook-gruppen <a
-                    href="https://www.facebook.com/groups/117146212287840/permalink/296467177689075/">Den
-                    selvforsynende familie</a> deler hun råd, erfaringer
-                og praktiske tips med andre, der ønsker at komme i gang med selvforsyning eller dyrkning i lille
-                skala. Gruppen er et aktivt fællesskab, hvor hun besvarer spørgsmål fra medlemmerne og deler
-                indblik i sin have året rundt.
-                <br/>
-                Lines arbejde og mission er i flere omgange blevet skildret på bl.a. <a
-                    href="https://www.tvsyd.dk/kolding/line-vil-dyrke-al-sin-mad-selv-i-sin-parcelhus-have">TV Syd</a>
-                og <a
-                    href="https://www.bolius.dk/lines-parcelhushave-blev-forvandlet-til-et-spisekammer-92931">Bolius.dk</a>.
+            <p class="mb-2">
+            Spændingen var til at føle på, da vi skulle afholde det første arrangement! 
+            Der var lovet en del blæst, og der var risiko for byger, så vi satte telt og køkken op, tilsluttede el og forberedte det sidste. Og håbede det bedste.
             </p>
+
+            <figure class="image-row pb-4">
+                <img src="../assets/spgd1.jpg" alt="Spis Grønt Dag #1 i solskin" />
+                <figcaption class="text-sm">
+                God stemning, eminent samarbejde og fint vejr til premieren på Spis Grønt Dage!
+                </figcaption>
+            </figure>
+                        
+            <p class="mb-2">
+            Line havde forberedt meget af menuen hjemmefra, da grøntsagerne i LAD DET GRO-haven stadig er for små og spæde til at høste.
+
+            Deltagerne mødte op kl. 15:20, fik en introduktion til menuen og tilmeldte sig de forskellige hold. Nogle lavede suppen, andre brød og i wok'en stegte en tredje gruppe snacks, som alle kunne guffe i sig undervejs.
+            </p>
+            <p class="mb-2">
+            Vi fik rabarber-kage til sidst, som en fjerde gruppe havde tilberedt med frivillige tidstagere og temperaturtjekkere på sidelinjen.
+            
+            Selv i lyset af forberedelserne og de meget engagerede deltagere, var det et magisk øjeblik, da vi satte os til bords og alt faktisk var lykkedes. <br/>Vi har også fået en biavler og bistader i haven, og vi fik mulighed for at smage den friske honning direkte fra tavlerne. Vi kunne ikke have forestillet os en bedre start.
+            </p>
+                  <!-- Billede fra spgd # 1 -->
+
+
+            <p class="mb-2">
+                <i>"Det var fascinerende at man her i maj kan bruge det inderste af porrerne. Denne kerne er blød og smager dejligt"</i><br/>
+                <small>- en af deltagerne</small>
+            </p>
+
         </section>
 
 

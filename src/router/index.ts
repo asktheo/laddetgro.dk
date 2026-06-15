@@ -6,9 +6,15 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      meta: { showInNavBar: true, title: 'LAD DET GRO', requiresAuth: false, hideOnMobile: false },
+      meta: { showInNavBar: true, title: 'DET GROR!', requiresAuth: false, hideOnMobile: false },
       component: () => import('@/components/Home.vue')
     },
+    {
+      path: '/more',
+      name: 'more',
+      meta: { showInNavBar: true, title: 'LAD DET GRO', requiresAuth: false, hideOnMobile: false },
+      component: () => import('@/components/More.vue')
+    },    
     {
       path: '/fgu',
       name: 'fgu',
